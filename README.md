@@ -12,7 +12,7 @@
 
 ----------------
 
-**<p align="center">No matter where you are. The bug listens as long as there's electricity following in the bugged device.<p>**
+**<p align="center">No matter where you are. The bug listens as long as there's electricity flowing in the bugged device.<p>**
 
 ---------------
 
