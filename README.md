@@ -47,24 +47,24 @@ Reversal could cause heavy damage. Use a test screw driver to make sure you're c
 ## Design
 
 Eavesdrop Sender Schematic
-![img](/Eavesdrop/Graphics/senderschematic.png)
+![img](Graphics/senderschematic.png)
 
 Eavesdrop Sender PCB
-![img](/Eavesdrop/Graphics/senderrawpcb.png)
+![img](Graphics/senderrawpcb.png)
 
 Eavesdrop Sender PCB (Model)
-![img](/Eavesdrop/Graphics/senderpcb.png)
+![img](Graphics/senderpcb.png)
 
 
 Eavesdrop Receiver Schematic
-![img](/Eavesdrop/Graphics/receiverschematic.png)
+![img](Graphics/receiverschematic.png)
 
 Eavesdrop Receiver PCB
-![img](/Eavesdrop/Graphics/receiverpcb.png)
+![img](Graphics/receiverpcb.png)
 
 
 Eavesdrop Receiver PCB (Model)
-![img](/Eavesdrop/Graphics/pcbreceivermodel.png)
+![img](Graphics/pcbreceivermodel.png)
 
 
 ## Credits
