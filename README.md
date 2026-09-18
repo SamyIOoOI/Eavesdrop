@@ -41,7 +41,7 @@ Reversal could cause irreversible damage. Use a test screw driver to make sure y
 <br>
 
 
-<p align="center">Note that usage of Eavesdrop or any other spying device is illegal when taken out of personal hobby boundaries and used beyond one's own property. (If your device bleeds into the grid of neighbouring properties you may still be fined.) <br><br> I hold no responsiblity on the misuse of this project for illegal activitis such as but not limited to: Unathorized Surveillance, Stalking, and damage to property.<br><br>My work is done for the sake of open-sourcing, eduction and self-learning. Not to inflict harm.<p>
+<p align="center">Note that usage of Eavesdrop or any other spying device is illegal when taken out of personal hobby boundaries and used beyond one's own property. (If your device bleeds into the grid of neighbouring properties you may still be fined.) <br><br> I hold no responsiblity on the misuse of this project for illegal activities such as but not limited to: Unathorized Surveillance, Stalking, and damage to property.<br><br>My work is done for the sake of open-sourcing, eduction and self-learning. Not to inflict harm.<p>
 
 
 ## Design
