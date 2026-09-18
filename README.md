@@ -8,7 +8,7 @@
 ## We all know about the little radio wave recorders, called FM bugs. However, not everyone, -including me not so long ago- knows about current carrier bugs.
 
 
-**A "current carrier bug" is a spy tool that records the sound inside the area its plugged in and sends it back through the building's AC directly, evading RF detection as awhole.**
+**A "current carrier bug" is a spy tool that records the sound inside the area its plugged in and sends it back through the building's AC directly, evading RF detection as awhole. So your own electricity becomes a medium for spying on you.*
 
 ----------------
 
