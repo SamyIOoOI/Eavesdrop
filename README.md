@@ -65,12 +65,12 @@ Eavesdrop Receiver Schematic
 
 Eavesdrop Receiver PCB
 
-![img](Graphics/receiverpcb.png)
+![img](Graphics/receiverpcb2.png)
 
 
 Eavesdrop Receiver PCB (Model)
 
-![img](Graphics/pcbreceivermodel.png)
+![img](Graphics/pcbreceivermodel2.png)
 
 
 ## Credits
