@@ -5,7 +5,7 @@
 
 ### <p align="center">[Main Features](#main-features) **-** [Usage](#usage-of-eavesdrop) **-** [PCB & Schematic](#design) **-** [Gerber Files](/Eavesdrop/Gerber%20Files/) **-** [Kicad (Schematic & PCB)](/Eavesdrop/Kicad%20Source%20Files/) **-** [Credits](#credits)</p>
 
-## How would you feel if your own lamp was spying on you? Maybe even your tv, maybe the frier, maybe the wall outlet you charge this device with. maybe even your charger. Well that could very well be a carrier bug. Just like Eavesdrop.
+## How would you feel if your own fridge was spying on you? Maybe even your tv, maybe the fryer, maybe the wall outlet you charge this device with. maybe even your charger. Well that could very well be a carrier bug. Just like Eavesdrop.
 
 
 *A "current carrier bug" is a spy tool that records the sound inside the area its plugged in and sends it back through the AC power its connected to directly, evading most detection devices available in the market that rely on RF to detect these devices.*
