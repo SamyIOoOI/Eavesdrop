@@ -1,6 +1,6 @@
 <h1 align="center">Eavesdrop</h1>
 
-![img](Graphics/senderpcb.png)
+![img](Graphics/EavesdropDesign.png)
 
 
 ### <p align="center">[Main Features](#main-features) **-** [Usage](#usage-of-eavesdrop) **-** [PCB & Schematic](#design) **-** [Gerber Files](/Eavesdrop/Gerber%20Files/) **-** [Kicad (Schematic & PCB)](/Eavesdrop/Kicad%20Source%20Files/) **-** [Credits](#credits)</p>
