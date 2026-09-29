@@ -112,6 +112,8 @@ Eavesdrop Receiver PCB (Model)
 | **Total**                               |              | 2029.33 EGP  |                                                                                                            |
 
 
+*Credits: BOM converted from XLSX to md on tableconvert.com*
+
 ## Credits
 
 Made by SamyIOoOI on github under the GPL 3.0 Licence.
