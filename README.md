@@ -3,7 +3,7 @@
 ![img](Graphics/EavesdropDesign.png)
 
 
-### <p align="center">[Main Features](#main-features) **-** [Usage](#usage-of-eavesdrop) **-** [PCB & Schematic](#design) **-** [Gerber Files](/Eavesdrop/Gerber%20Files/) **-** [Kicad (Schematic & PCB)](/Eavesdrop/Kicad%20Source%20Files/)  **-** [BOM](#bom)  **-** [BOM (File)](/Eavesdrop/BOM/evasdrop.xlsx) **-** [Credits](#credits)</p>
+### <p align="center">[Main Features](#main-features) **-** [Usage](#usage-of-eavesdrop) **-** [PCB & Schematic](#design) **-** [Gerber Files](/Eavesdrop/Gerber%20Files/) **-** [Kicad (Schematic & PCB)](/Eavesdrop/Kicad%20Source%20Files/)  **-** [BOM](#bom)  **-** [BOM (File)](/BOM/evasdrop.xlsx) **-** [Credits](#credits)</p>
 
 ## How would you feel if your own fridge was spying on you? Maybe even your tv, maybe the fryer, maybe the wall outlet you charge this device with. maybe even your charger. Well that could very well be a carrier bug. Just like Eavesdrop.
 
